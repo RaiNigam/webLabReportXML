@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes>
+<note id="1">
+<to> Ramesh</to>
+<from>Krishna</from>
+<subject> This is my first xml</subject>
+<body>This is my first message for xml</body> 
+</note>
+<note id="2"> 
+<to>Sita</to>
+<from>Gita</from>
+<subject>This is my second xml</subject>
+<body>This is my second message for xml</body> 
+</note>
+</notes>

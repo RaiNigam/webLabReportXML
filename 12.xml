@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneNumbers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="11.phone.xsd">
+<title>Test</title>
+<entries>
+<entry>
+<name gender="male">
+<first>test</first>
+<middle>dsfds</middle>
+<last>sdfdsf</last>
+</name>
+<phone>987545454</phone>
+<city>Chitwan,Kathmandu</city>
+</entry>
+<entry>
+<name gender="female">
+<first>test</first>
+<middle>dsfds</middle>
+<last>sdfdst</last>
+</name>
+<phone>987545454</phone>
+</entry>
+</entries>
+</phoneNumbers>
+
+
+

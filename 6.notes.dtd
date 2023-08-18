@@ -1,0 +1,8 @@
+<!ELEMENT notes (note+)>
+<!ELEMENT note (to+,from,subject, ( message | body )?)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+<!ATTLIST note type DATA #REQUIRED>

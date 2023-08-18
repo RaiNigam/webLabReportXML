@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note [
+<!ELEMENT note (to, from, subject, body) >
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]>
+<note>
+<to>Ramesh</to>
+<from>Krishna</from>
+<subject> This is my first xml</subject>
+<body >This is my first message for xml</body>
+ </note>

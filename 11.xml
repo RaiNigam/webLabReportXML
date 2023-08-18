@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="10.notewithattribute.xsd">
+<note ID="1">
+<to>Ramesh</to>
+<from>Krishna</from>
+<subject> This is my first xml</subject>
+<body >This is my first message for xml</body> 
+</note>
+<note ID="2"> <to>Gita</to>
+<from>Rita</from>
+<subject>This is my second xml</subject>
+<body >This is my second message for xml</body> 
+</note>
+</notes>
+

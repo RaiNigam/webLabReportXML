@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE notes SYSTEM "6.notes.dtd">
+<notes>
+<note type="sms"> <to>Ramesh</to>
+<from>Krishna</from>
+<subject> This is my first xml</subject>
+<message> This is my first message for xml</message>
+</note>
+<note type="email">
+<to>Sita</to>
+<to>Ramesh</to> <from>Gita</from>
+<subject>This is my second xml</subject>
+<body>This is my second message for xml</body>
+</note>
+</notes>
+
+
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no" ?>
+<phoneNumbers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="12.restriction.xsd">
+<title>Phone Numbers</title>
+<entries>
+<entry>
+<name>
+<first>Ram</first> <last>Thapa</last>
+</name>
+<phone areaCode="319">335-0055</phone>
+<city>Pokhara</city>
+</entry>
+<entry>
+<name gender="male">
+<first>Hari</first> <last>Sharma</last>
+</name>
+<phone>354-9876</phone>
+<city>Kathmandu</city>
+</entry> <entry>
+<name gender="female">
+<first>Ramesh</first>
+<middle>Prasad</middle>
+<last>Shah</last>
+</name>
+<phone areaCode="319">335-4582</phone>
+<city>Chitwan</city>
+</entry> <entry>
+<name gender="female">
+<first>Ritu</first>
+<last>Shrestha</last>
+</name>
+<phone>337-5967</phone>
+</entry>
+</entries>
+</phoneNumbers>

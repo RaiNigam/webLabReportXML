@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "7.books.dtd">
+<books>
+<book isbn="548745">
+<name> Web Tech</name>
+<author>
+<author_name>ABCD</author_name> 
+<email>info@abcd.com</email>
+</author>
+<page>200</page>
+<price currency="npr">450</price>
+</book>
+<book isbn="548745">
+<name>HTML CSS &amp; Wev TecTech</name> 
+<author> 
+<author_name>ABCD</author_name>
+ <email>info@abcd.com</email>
+</author> 
+<author>
+<author_name>Ramesh</author_name> <email>info@ramesh.com</email>
+</author>
+<page> 900</page>
+<price currency="npr">1450</price>
+</book>
+<book isbn="327845">
+<name>HTML CSS &amp; Wev TecTech1</name> <author> <author_name>Ramesha</author_name> 
+<email>info@ramesha.com</email> 
+</author>
+<page>1020</page>
+ <price currency="usd">15</price> 
+</book> 
+</books>
+
+
